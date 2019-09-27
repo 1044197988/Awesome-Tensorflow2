@@ -6,7 +6,7 @@
 2019 谷歌开发者大会于 9 月 10 日和 11 日在上海举办，大会将分享众多开发经验与工具。在第一天的 KeyNote 中，谷歌发布了很多开发工具新特性，并介绍而它们是如何构建更好的应用。值得注意的是，TensorFlow 刚刚发布了 2.0 RC01 版和 1.15，谷歌表示 1.15 是 1.x 的最后一次更新了。TensorFlow 2.0 相信大家已经非常熟悉了，它重点还是放在优化 Keras 和 Eager Execution 的能力，它希望通过这这两种 API 简化整个开发流程。所以，未来的趋势肯定是Tensorflow2.0，在此我整合了许多的优秀库及项目到这个贡献库里。
 
 # 提示
-有些项目目前仍在进行中，将在未来支持Tensorflow2，这样的项目也包含在下面列表中。（意味着目前并不支持Tensorflow2）
+有些项目目前仍在进行中，将在未来支持Tensorflow2，这样的项目也包含在下面列表中。（意味着目前并不支持二版本）
 
 # Contents <a name="TOC" />👈
 <!-- MarkdownTOC depth=4 -->
@@ -28,7 +28,7 @@
 * [tensorflow/models](https://github.com/tensorflow/models)<br>
 该存储库包含在TensorFlow中实现的许多不同模型。<br>
 * [1044197988/TF.Keras-Commonly-used-models](https://github.com/1044197988/TF.Keras-Commonly-used-models)<br>
-该贡献库为我整理的一些常用的分类、分割模型，包含分割的一些指标、损失函数，但不提供预训练模型的载入。如分割模型：<br>
+该贡献库为我整理的一些常用的分类、分割模型，包含分割的一些指标、损失函数，但不提供预训练模型的载入。分割模型列表如下：<br>
 ![Segmentation](https://github.com/1044197988/Awesome-Tensorflow2/blob/master/Logo/2.png)
 
 #### Large library
