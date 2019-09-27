@@ -86,8 +86,9 @@
 * [1044197988/Centernet-Tensorflow2.0](https://github.com/1044197988/Centernet-Tensorflow2.0)
 * [calmisential/TensorFlow2.0_FasterRCNN](https://github.com/calmisential/TensorFlow2.0_FasterRCNN)
 
-###NLP Model
+### NLP Model
 #### Large library
+Tensor2Tensor或 简称T2T，是一个深度学习模型和数据集的库，旨在使深度学习更易于访问并加速ML研究。Google Brain团队和用户社区的研究人员和工程师积极使用和维护T2T 。<br>
 * [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)
 
 #### Model
@@ -99,18 +100,25 @@
 * [akanyaani/gpt-2-tensorflow2.0](https://github.com/akanyaani/gpt-2-tensorflow2.0)
 
 ## Projects 💛💛💛💛💛<a name="Projects" />
+### 分割
 * [Shathe/Semantic-Segmentation-Tensorflow-2](https://github.com/Shathe/Semantic-Segmentation-Tensorflow-2)
+* [1044197988/Semantic-segmentation-of-remote-sensing-images](https://github.com/1044197988/Semantic-segmentation-of-remote-sensing-images)
+### NLP
 * [jason9693/MusicTransformer-tensorflow2.0](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
 * [xingchensong/Speech-Transformer-tf2.0](https://github.com/xingchensong/Speech-Transformer-tf2.0)
-* [liushuan/YOLO-V3-Tensorflow2.0-Face-Detect-via-Wider-Face](https://github.com/liushuan/YOLO-V3-Tensorflow2.0-Face-Detect-via-Wider-Face)
-* [ybsdegit/captcha_keras](https://github.com/ybsdegit/captcha_keras)
 * [drukka/command-words-recognition-keras](https://github.com/drukka/command-words-recognition-keras)
+* [bryanlimy/tf2-transformer-chatbot](https://github.com/bryanlimy/tf2-transformer-chatbot)
+### 目标检测
+* [liushuan/YOLO-V3-Tensorflow2.0-Face-Detect-via-Wider-Face](https://github.com/liushuan/YOLO-V3-Tensorflow2.0-Face-Detect-via-Wider-Face)
+### 验证码识别
+* [ybsdegit/captcha_keras](https://github.com/ybsdegit/captcha_keras)
+### 文字检测、识别
 * [RaidasGrisk/tf2-fots](https://github.com/RaidasGrisk/tf2-fots)
 * [RaidasGrisk/tf2-crnn](https://github.com/RaidasGrisk/tf2-crnn)
-* [bryanlimy/tf2-transformer-chatbot](https://github.com/bryanlimy/tf2-transformer-chatbot)
+### 人脸识别
 * [DequanZhu/FaceNet-and-FaceLoss-collections-tensorflow2.0](https://github.com/DequanZhu/FaceNet-and-FaceLoss-collections-tensorflow2.0)
 * [Fei-Wang/insightface](https://github.com/Fei-Wang/insightface)
-* [1044197988/Semantic-segmentation-of-remote-sensing-images](https://github.com/1044197988/Semantic-segmentation-of-remote-sensing-images)
+
 
 ## Other 💛💛💛💛💛<a name="Other" />
 ### 脚本
@@ -122,7 +130,7 @@
 * [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec)
 * [Hourout/CTR-keras](https://github.com/Hourout/CTR-keras)
 * [hojinYang/recsys-implementation.tensorflow2](https://github.com/hojinYang/recsys-implementation.tensorflow2)
-### 用于分布式培训，评估，模型选择和快速原型制作。
+### 用于分布式培训，评估，模型选择和快速原型制作
 * [zurutech/ashpy](https://github.com/zurutech/ashpy)
 ### AutoML
 * [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
@@ -139,7 +147,7 @@
 * [tensorflow/addons](https://github.com/tensorflow/addons)
 ### 迭代矩阵平方根归一化网络（称为快速MPN-COV），该网络非常有效，适合大规模数据集
 * [XuChunqiao/Tensorflow-Fast-MPNCOV](https://github.com/XuChunqiao/Tensorflow-Fast-MPNCOV)
-### TF-GAN是用于培训和评估生成对抗网络GAN的轻量级库。
+### TF-GAN是用于培训和评估生成对抗网络GAN的轻量级库
 * [tensorflow/gan](https://github.com/tensorflow/gan)
 ### 官方数据集包
 * [tensorflow/datasets](https://github.com/tensorflow/datasets)
