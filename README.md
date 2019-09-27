@@ -10,7 +10,6 @@
 * [Tutorials](#github-tutorials)
 * [Model](#Model)
 * [Projects](#Projects)
-* [Tools](#tools)
 * [Other](#other)
 <!-- /MarkdownTOC --> 
 
@@ -23,6 +22,8 @@
 
 ## Model 💛💛💛💛💛<a name="Model" />
 ### Classification
+* [1044197988/TF.Keras-Commonly-used-models](https://github.com/1044197988/TF.Keras-Commonly-used-models)
+
 #### Large library
 * [qubvel/classification_models](https://github.com/qubvel/classification_models#architectures)
 
@@ -30,7 +31,10 @@
 * [qubvel/efficientnet](https://github.com/qubvel/efficientnet)
 * [nsarang/MnasNet](https://github.com/nsarang/MnasNet)
 * [calmisential/MobileNetV3_TensorFlow2](https://github.com/calmisential/MobileNetV3_TensorFlow2)
-
+* [calmisential/TensorFlow2.0_ResNet](https://github.com/calmisential/TensorFlow2.0_ResNet)
+* [calmisential/TensorFlow2.0_InceptionV3](https://github.com/calmisential/TensorFlow2.0_InceptionV3)
+* [calmisential/MobileNetV3_TensorFlow2](https://github.com/calmisential/MobileNetV3_TensorFlow2)
+* [calmisential/TensorFlow2.0_Image_Classification](https://github.com/calmisential/TensorFlow2.0_Image_Classification)
 
 ##### Capsnet model
 * [prabhuomkar/hicr-capsnet](https://github.com/prabhuomkar/hicr-capsnet)
@@ -45,7 +49,12 @@
 * [Hourout/GAN-keras](https://github.com/Hourout/GAN-keras)
 * [Net-Mist/style-transfer-tf2](https://github.com/Net-Mist/style-transfer-tf2)
 * [mnicnc404/CartoonGan-tensorflow](https://github.com/mnicnc404/CartoonGan-tensorflow)
-
+* [ialhashim/StyleGAN-Tensorflow2](https://github.com/ialhashim/StyleGAN-Tensorflow2)
+* [leafinity/SAGAN-tensorflow2.0](https://github.com/leafinity/SAGAN-tensorflow2.0)
+* [Lornatang/TensorFlow2-GAN](https://github.com/Lornatang/TensorFlow2-GAN)
+* [ppooiiuuyh/SinGAN-tensorflow2.0](https://github.com/ppooiiuuyh/SinGAN-tensorflow2.0)
+* [hollygrimm/tf2-cyclegan](https://github.com/hollygrimm/tf2-cyclegan)
+* [drewszurko/tensorflow-WGAN-GP](https://github.com/drewszurko/tensorflow-WGAN-GP)
 
 ### Segmentation
 #### Large library
@@ -66,22 +75,52 @@
 * [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
 * [srihari-humbarwadi/YOLOv1-TensorFlow2.0](https://github.com/srihari-humbarwadi/YOLOv1-TensorFlow2.0)
 * [cjpurackal/m2det-tf](https://github.com/cjpurackal/m2det-tf)
+* [reliefs/mtcnn-tensorflow2](https://github.com/reliefs/mtcnn-tensorflow2)
+* [1044197988/Centernet-Tensorflow2.0](https://github.com/1044197988/Centernet-Tensorflow2.0)
+* [calmisential/TensorFlow2.0_FasterRCNN](https://github.com/calmisential/TensorFlow2.0_FasterRCNN)
+
+###NLP Model
+#### Large library
+https://github.com/tensorflow/tensor2tensor)
+#### Model
+https://github.com/codertimo/BERT-tf2)
+https://github.com/ShaneTian/TextCNN)
+https://github.com/strutive07/transformer-tensorflow2.0)
+https://github.com/thisisiron/nmt-attention-tf)
+https://github.com/kpe/bert-for-tf2)
+https://github.com/akanyaani/gpt-2-tensorflow2.0)
 
 ## Projects 💛💛💛💛💛<a name="Projects" />
 
 * [Shathe/Semantic-Segmentation-Tensorflow-2](https://github.com/Shathe/Semantic-Segmentation-Tensorflow-2)
 * [jason9693/MusicTransformer-tensorflow2.0](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
 * [xingchensong/Speech-Transformer-tf2.0](https://github.com/xingchensong/Speech-Transformer-tf2.0)
-
-
-## Tools 💛💛💛💛💛<a name="Tools" />
-
-* [XuChunqiao/Tensorflow-Fast-MPNCOV](https://github.com/XuChunqiao/Tensorflow-Fast-MPNCOV)
-
+https://github.com/liushuan/YOLO-V3-Tensorflow2.0-Face-Detect-via-Wider-Face)
+https://github.com/ybsdegit/captcha_keras)
+https://github.com/drukka/command-words-recognition-keras)
+https://github.com/RaidasGrisk/tf2-fots)
+https://github.com/RaidasGrisk/tf2-crnn)
+https://github.com/bryanlimy/tf2-transformer-chatbot)
+https://github.com/DequanZhu/FaceNet-and-FaceLoss-collections-tensorflow2.0)
+https://github.com/Fei-Wang/insightface)
+https://github.com/1044197988/Semantic-segmentation-of-remote-sensing-images)
 
 ## Other 💛💛💛💛💛<a name="Other" />
-
-
+https://github.com/hacker-lin/train_test_valid_split)
+https://github.com/ravindrabharathi/tf_utils)
+https://github.com/sicara/tf-explain)
+https://github.com/cheungdaven/DeepRec)
+https://github.com/Hourout/CTR-keras)
 * [XuChunqiao/Tensorflow-Fast-MPNCOV](https://github.com/XuChunqiao/Tensorflow-Fast-MPNCOV)
-
-
+https://github.com/hojinYang/recsys-implementation.tensorflow2)
+https://github.com/keiohta/tf2rl)
+https://github.com/keras-team/autokeras)
+https://github.com/danaugrs/huskarl)
+https://github.com/zurutech/ashpy)
+https://github.com/tensorflow/addons)
+https://github.com/tensorflow/neural-structured-learning)
+https://github.com/keras-team/keras-tuner)
+https://github.com/tensorflow/models)
+https://github.com/tensorflow/datasets)
+https://github.com/tensorflow/gan#who-uses-tf-gan)
+https://github.com/siavash-khodadadeh/MetaLearning-TF2.0)
