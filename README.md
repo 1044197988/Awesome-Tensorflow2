@@ -15,6 +15,7 @@
 <!-- /MarkdownTOC --> 
 
 <a name="Model" />
+
 ## Model 💛💛💛💛💛
 * [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha)
 * [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.0 & cuDNN >= 7.4.1)
