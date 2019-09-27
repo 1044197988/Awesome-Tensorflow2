@@ -9,21 +9,22 @@
 <!-- MarkdownTOC depth=4 -->
 * [Model](#Model)
 * [Tutorials](#github-tutorials)
-* [SampleCodes/Projects](#sample)
+* [Projects](#sample)
 * [Tools](#tools)
 * [Other](#other)
 <!-- /MarkdownTOC --> 
 
-<a name="Model" />
+## Tutorials 💛💛💛💛💛<a name="github-tutorials" />
 
-## Model 💛💛💛💛💛
+
+
+## Model 💛💛💛💛💛<a name="Model" />
 ### Classification
 #### Large library
 * [qubvel/classification_models](https://github.com/qubvel/classification_models#architectures)
 
 #### Model
 * [qubvel/efficientnet](https://github.com/qubvel/efficientnet)
-* [nsarang/MnasNet](https://github.com/nsarang/MnasNet)
 * [nsarang/MnasNet](https://github.com/nsarang/MnasNet)
 
 ##### Capsnet model
@@ -49,6 +50,5 @@
 ### Object detection
 #### Model
 * [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
-
 
 
