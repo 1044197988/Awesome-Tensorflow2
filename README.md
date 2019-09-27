@@ -17,10 +17,38 @@
 <a name="Model" />
 
 ## Model 💛💛💛💛💛
-* [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha)
-* [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.0 & cuDNN >= 7.4.1)
-* [Effective_tf2](https://www.tensorflow.org/alpha/guide/effective_tf2)
-* [Quick Start](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner)
-* [Upgrade guid](https://www.tensorflow.org/alpha/guide/upgrade)
-* [Road map](https://www.tensorflow.org/community/roadmap)
-* [FAQ](https://github.com/tensorflow/community/blob/master/sigs/testing/faq.md)
+### Classification
+#### Large library
+* [qubvel/classification_models](https://github.com/qubvel/classification_models#architectures)
+
+#### Model
+* [qubvel/efficientnet](https://github.com/qubvel/efficientnet)
+* [nsarang/MnasNet](https://github.com/nsarang/MnasNet)
+* [nsarang/MnasNet](https://github.com/nsarang/MnasNet)
+
+##### Capsnet model
+* [prabhuomkar/hicr-capsnet](https://github.com/prabhuomkar/hicr-capsnet)
+
+##### Semi-supervised learning
+* [ntozer/mixmatch-tensorflow2.0](https://github.com/ntozer/mixmatch-tensorflow2.0)
+
+
+### Segmentation
+#### Large library
+* [qubvel/segmentation_models](https://github.com/qubvel/segmentation_models)
+
+#### Model
+* [srihari-humbarwadi/FastFCN_TF2.0](https://github.com/srihari-humbarwadi/FastFCN_TF2.0)
+* [bonlime/keras-deeplab-v3-plus](https://github.com/bonlime/keras-deeplab-v3-plus)
+* [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+
+### Super resolution
+#### Model
+* [krasserm/super-resolution](https://github.com/krasserm/super-resolution)
+
+### Object detection
+#### Model
+* [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
+
+
+
