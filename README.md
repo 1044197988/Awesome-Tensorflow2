@@ -9,7 +9,7 @@
 <!-- MarkdownTOC depth=4 -->
 * [Tutorials](#github-tutorials)
 * [Model](#Model)
-* [Projects](#sample)
+* [Projects](#Projects)
 * [Tools](#tools)
 * [Other](#other)
 <!-- /MarkdownTOC --> 
@@ -37,9 +37,15 @@
 
 ##### Semi-supervised learning
 * [ntozer/mixmatch-tensorflow2.0](https://github.com/ntozer/mixmatch-tensorflow2.0)
+* [schatty/prototypical-networks-tf](https://github.com/schatty/prototypical-networks-tf)
 
-##### Generative-models
+##### Generative-models and Self encoder
 * [timsainb/tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models)
+* [DequanZhu/GANs-collections-tf2.0_keras-eager_mode](https://github.com/DequanZhu/GANs-collections-tf2.0_keras-eager_mode)
+* [Hourout/GAN-keras](https://github.com/Hourout/GAN-keras)
+* [Net-Mist/style-transfer-tf2](https://github.com/Net-Mist/style-transfer-tf2)
+* [mnicnc404/CartoonGan-tensorflow](https://github.com/mnicnc404/CartoonGan-tensorflow)
+
 
 ### Segmentation
 #### Large library
@@ -58,5 +64,24 @@
 ### Object detection
 #### Model
 * [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
+* [srihari-humbarwadi/YOLOv1-TensorFlow2.0](https://github.com/srihari-humbarwadi/YOLOv1-TensorFlow2.0)
+* [cjpurackal/m2det-tf](https://github.com/cjpurackal/m2det-tf)
+
+## Projects 💛💛💛💛💛<a name="Projects" />
+
+* [Shathe/Semantic-Segmentation-Tensorflow-2](https://github.com/Shathe/Semantic-Segmentation-Tensorflow-2)
+* [jason9693/MusicTransformer-tensorflow2.0](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
+* [xingchensong/Speech-Transformer-tf2.0](https://github.com/xingchensong/Speech-Transformer-tf2.0)
+
+
+## Tools 💛💛💛💛💛<a name="Tools" />
+
+* [XuChunqiao/Tensorflow-Fast-MPNCOV](https://github.com/XuChunqiao/Tensorflow-Fast-MPNCOV)
+
+
+## Other 💛💛💛💛💛<a name="Other" />
+
+
+* [XuChunqiao/Tensorflow-Fast-MPNCOV](https://github.com/XuChunqiao/Tensorflow-Fast-MPNCOV)
 
 
