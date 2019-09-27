@@ -124,3 +124,4 @@
 * [tensorflow/datasets](https://github.com/tensorflow/datasets)
 * [tensorflow/gan#who-uses-tf-gan](https://github.com/tensorflow/gan#who-uses-tf-gan)
 * [siavash-khodadadeh/MetaLearning-TF2.0](https://github.com/siavash-khodadadeh/MetaLearning-TF2.0)
+* [tensorflow/adanet](https://github.com/tensorflow/adanet/tree/v0.7.0)
