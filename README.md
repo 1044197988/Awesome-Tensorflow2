@@ -28,8 +28,7 @@
 * [tensorflow/models](https://github.com/tensorflow/models)<br>
 该存储库包含在TensorFlow中实现的许多不同模型。<br>
 * [1044197988/TF.Keras-Commonly-used-models](https://github.com/1044197988/TF.Keras-Commonly-used-models)<br>
-该贡献库为我整理的一些常用的分类、分割模型，包含分割的一些指标、损失函数，但不提供预训练模型的载入。<br>
-![Classification](https://github.com/1044197988/Awesome-Tensorflow2/blob/master/Logo/1.png)
+该贡献库为我整理的一些常用的分类、分割模型，包含分割的一些指标、损失函数，但不提供预训练模型的载入。如分割模型：<br>
 ![Segmentation](https://github.com/1044197988/Awesome-Tensorflow2/blob/master/Logo/2.png)
 
 #### Large library
