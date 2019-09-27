@@ -151,5 +151,5 @@ Tensor2Tensor或 简称T2T，是一个深度学习模型和数据集的库，旨
 * [tensorflow/gan](https://github.com/tensorflow/gan)
 ### 官方数据集包
 * [tensorflow/datasets](https://github.com/tensorflow/datasets)
-
-
+### NLP
+* [tensorflow/text](https://github.com/tensorflow/text)
