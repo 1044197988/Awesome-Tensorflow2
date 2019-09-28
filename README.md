@@ -76,6 +76,10 @@
 ### Super resolution
 #### Model
 * [krasserm/super-resolution](https://github.com/krasserm/super-resolution)
+包含以下模型：<br>
+* 用于单图像超分辨率（EDSR）的增强型深度残留网络，是NTIRE 2017超分辨率挑战赛的冠军。
+* 广泛激活以实现高效，准确的图像超分辨率（WDSR），是NTIRE 2018超分辨率挑战赛（真实轨道）的获胜者。
+* 使用生成对抗网络（SRGAN）的逼真的单图像超分辨率。
 
 ### Object detection
 #### Model
@@ -89,7 +93,7 @@
 ### NLP Model
 #### Large library
 Tensor2Tensor或 简称T2T，是一个深度学习模型和数据集的库，旨在使深度学习更易于访问并加速ML研究。Google Brain团队和用户社区的研究人员和工程师积极使用和维护T2T 。<br>
-* [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)<br>
+* [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) <br>
 TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-transformers和pytorch-pretrained-bert）提供用于自然语言理解（NLU）和自然语言生成（NLG）的最新通用架构（BERT，GPT-2，RoBERTa，XLM，DistilBert，XLNet ...） ）包含超过32种以100多种语言编写的预训练模型，以及TensorFlow 2.0和PyTorch之间的深层互操作性。<br>
 * [huggingface/transformers](https://github.com/huggingface/transformers)
 
