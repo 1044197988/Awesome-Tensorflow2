@@ -92,10 +92,10 @@
 
 ### NLP Model
 #### Large library
-Tensor2Tensor或 简称T2T，是一个深度学习模型和数据集的库，旨在使深度学习更易于访问并加速ML研究。Google Brain团队和用户社区的研究人员和工程师积极使用和维护T2T 。<br>
 * [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)<br>
-TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-transformers和pytorch-pretrained-bert）提供用于自然语言理解（NLU）和自然语言生成（NLG）的最新通用架构（BERT，GPT-2，RoBERTa，XLM，DistilBert，XLNet ...） ）包含超过32种以100多种语言编写的预训练模型，以及TensorFlow 2.0和PyTorch之间的深层互操作性。<br>
+Tensor2Tensor或简称T2T，是一个深度学习模型和数据集的库，旨在使深度学习更易于访问并加速ML研究。Google Brain团队和用户社区的研究人员和工程师积极使用和维护T2T 。<br>
 * [huggingface/transformers](https://github.com/huggingface/transformers)<br>
+TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-transformers和pytorch-pretrained-bert）提供用于自然语言理解（NLU）和自然语言生成（NLG）的最新通用架构（BERT，GPT-2，RoBERTa，XLM，DistilBert，XLNet ...） ）包含超过32种以100多种语言编写的预训练模型，以及TensorFlow 2.0和PyTorch之间的深层互操作性。<br>
 
 #### Model
 * [codertimo/BERT-tf2](https://github.com/codertimo/BERT-tf2)
