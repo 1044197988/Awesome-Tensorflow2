@@ -40,7 +40,6 @@
 * [calmisential/MobileNetV3_TensorFlow2](https://github.com/calmisential/MobileNetV3_TensorFlow2)
 * [calmisential/TensorFlow2.0_ResNet](https://github.com/calmisential/TensorFlow2.0_ResNet)
 * [calmisential/TensorFlow2.0_InceptionV3](https://github.com/calmisential/TensorFlow2.0_InceptionV3)
-* [calmisential/MobileNetV3_TensorFlow2](https://github.com/calmisential/MobileNetV3_TensorFlow2)
 * [calmisential/TensorFlow2.0_Image_Classification](https://github.com/calmisential/TensorFlow2.0_Image_Classification)
 
 ##### Capsnet model
