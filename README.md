@@ -89,7 +89,9 @@
 ### NLP Model
 #### Large library
 Tensor2Tensor或 简称T2T，是一个深度学习模型和数据集的库，旨在使深度学习更易于访问并加速ML研究。Google Brain团队和用户社区的研究人员和工程师积极使用和维护T2T 。<br>
-* [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+* [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)<br>
+TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-transformers和pytorch-pretrained-bert）提供用于自然语言理解（NLU）和自然语言生成（NLG）的最新通用架构（BERT，GPT-2，RoBERTa，XLM，DistilBert，XLNet ...） ）包含超过32种以100多种语言编写的预训练模型，以及TensorFlow 2.0和PyTorch之间的深层互操作性。<br>
+* [huggingface/transformers](https://github.com/huggingface/transformers)
 
 #### Model
 * [codertimo/BERT-tf2](https://github.com/codertimo/BERT-tf2)
@@ -126,7 +128,7 @@ Tensor2Tensor或 简称T2T，是一个深度学习模型和数据集的库，旨
 * [ravindrabharathi/tf_utils](https://github.com/ravindrabharathi/tf_utils)
 ### 解释性工具
 * [sicara/tf-explain](https://github.com/sicara/tf-explain)
-### 推荐系统模型
+### 推荐系统和CTR预测模型
 * [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec)
 * [Hourout/CTR-keras](https://github.com/Hourout/CTR-keras)
 * [hojinYang/recsys-implementation.tensorflow2](https://github.com/hojinYang/recsys-implementation.tensorflow2)
@@ -153,3 +155,4 @@ Tensor2Tensor或 简称T2T，是一个深度学习模型和数据集的库，旨
 * [tensorflow/datasets](https://github.com/tensorflow/datasets)
 ### NLP
 * [tensorflow/text](https://github.com/tensorflow/text)
+
