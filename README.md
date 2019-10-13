@@ -89,6 +89,7 @@
 * [1044197988/Centernet-Tensorflow2.0](https://github.com/1044197988/Centernet-Tensorflow2.0)
 * [calmisential/TensorFlow2.0_FasterRCNN](https://github.com/calmisential/TensorFlow2.0_FasterRCNN)
 * [Stick-To/Object-Detection-Tensorflow2](https://github.com/Stick-To/Object-Detection-Tensorflow2)
+* [hux999/tf-fcos](https://github.com/hux999/tf-fcos)
 
 ### NLP Model 自然语言处理模型
 #### Large library 大型库
