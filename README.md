@@ -162,4 +162,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [tensorflow/datasets](https://github.com/tensorflow/datasets)
 ### NLP
 * [tensorflow/text](https://github.com/tensorflow/text)
-
+### 大型基于TF2的封装扩展库
+* [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)
