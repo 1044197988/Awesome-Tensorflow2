@@ -79,7 +79,7 @@
 用于单图像超分辨率（EDSR）的增强型深度残留网络，是NTIRE 2017超分辨率挑战赛的冠军。<br>
 广泛激活以实现高效，准确的图像超分辨率（WDSR），是NTIRE 2018超分辨率挑战赛（真实轨道）的获胜者。<br>
 使用生成对抗网络（SRGAN）的逼真的单图像超分辨率。<br>
-
+* [HasnainRaz/Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN)
 ### Object detection 目标检测
 #### Model 模型
 * [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
@@ -136,6 +136,7 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 ### 解释性工具
 * [sicara/tf-explain](https://github.com/sicara/tf-explain)
 ### 推荐系统和CTR预测模型
+* [JianzhouZhan/Awesome-RecSystem-Models](https://github.com/JianzhouZhan/Awesome-RecSystem-Models)
 * [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec)
 * [Hourout/CTR-keras](https://github.com/Hourout/CTR-keras)
 * [hojinYang/recsys-implementation.tensorflow2](https://github.com/hojinYang/recsys-implementation.tensorflow2)
@@ -164,3 +165,4 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [tensorflow/text](https://github.com/tensorflow/text)
 ### 大型基于TF2的封装扩展库
 * [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)
+
