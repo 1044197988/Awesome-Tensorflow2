@@ -107,6 +107,8 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [akanyaani/gpt-2-tensorflow2.0](https://github.com/akanyaani/gpt-2-tensorflow2.0)
 
 ## Projects 💛💛💛💛💛<a name="Projects" />
+### 视觉较大项目
+* [giovgiac/neptune](https://github.com/giovgiac/neptune)
 ### 分割
 * [Shathe/Semantic-Segmentation-Tensorflow-2](https://github.com/Shathe/Semantic-Segmentation-Tensorflow-2)
 * [1044197988/Semantic-segmentation-of-remote-sensing-images](https://github.com/1044197988/Semantic-segmentation-of-remote-sensing-images)
