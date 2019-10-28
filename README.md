@@ -80,6 +80,7 @@
 广泛激活以实现高效，准确的图像超分辨率（WDSR），是NTIRE 2018超分辨率挑战赛（真实轨道）的获胜者。<br>
 使用生成对抗网络（SRGAN）的逼真的单图像超分辨率。<br>
 * [HasnainRaz/Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN)
+* [gs18113/ESPCN-TensorFlow2](https://github.com/gs18113/ESPCN-TensorFlow2)
 ### Object detection 目标检测
 #### Model 模型
 * [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2)
@@ -168,4 +169,8 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [tensorflow/text](https://github.com/tensorflow/text)
 ### 大型基于TF2的封装扩展库
 * [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)
+### TF2项目模板
+* [michaeltinsley/TF2-Project-Template](https://github.com/michaeltinsley/TF2-Project-Template)
+### GCN图神经网络
+* [breadbread1984/GCN-tf2.0](https://github.com/breadbread1984/GCN-tf2.0)
 
