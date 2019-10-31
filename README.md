@@ -173,4 +173,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [michaeltinsley/TF2-Project-Template](https://github.com/michaeltinsley/TF2-Project-Template)
 ### GCN图神经网络
 * [breadbread1984/GCN-tf2.0](https://github.com/breadbread1984/GCN-tf2.0)
-
+### RBF径向基
+* [PetraVidnerova/rbf_for_tf2](https://github.com/PetraVidnerova/rbf_for_tf2)
