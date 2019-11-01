@@ -176,3 +176,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [breadbread1984/GCN-tf2.0](https://github.com/breadbread1984/GCN-tf2.0)
 ### RBF径向基
 * [PetraVidnerova/rbf_for_tf2](https://github.com/PetraVidnerova/rbf_for_tf2)
+### 新型的高性能可解释的深表格式数据学习网络TabNet
+* [titu1994/tf-TabNet](https://github.com/titu1994/tf-TabNet)
