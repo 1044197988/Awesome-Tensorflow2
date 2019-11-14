@@ -122,6 +122,7 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [gibrano/chatbot](https://github.com/gibrano/chatbot)
 ### 目标检测
 * [liushuan/YOLO-V3-Tensorflow2.0-Face-Detect-via-Wider-Face](https://github.com/liushuan/YOLO-V3-Tensorflow2.0-Face-Detect-via-Wider-Face)
+* [burnpiro/tiny-face-detection-tensorflow2](https://github.com/burnpiro/tiny-face-detection-tensorflow2)
 ### 验证码识别
 * [ybsdegit/captcha_keras](https://github.com/ybsdegit/captcha_keras)
 ### 文字检测、识别
