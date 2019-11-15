@@ -19,10 +19,10 @@
 ## Tutorials 💛💛💛💛💛<a name="github-tutorials" />
 * [tensorflow.google.cn](https://tensorflow.google.cn/beta)
 * [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
+* [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 * [czy36mengfei/tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 * [yusugomori/deeplearning-tf2](https://github.com/yusugomori/deeplearning-tf2)
 * [YunYang1994/TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)
-
 
 ## Model 💛💛💛💛💛<a name="Model" />
 ### Classification 分类
