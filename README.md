@@ -180,3 +180,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [PetraVidnerova/rbf_for_tf2](https://github.com/PetraVidnerova/rbf_for_tf2)
 ### 新型的高性能可解释的深表格式数据学习网络TabNet
 * [titu1994/tf-TabNet](https://github.com/titu1994/tf-TabNet)
+### 优化器
+* [OverLordGoldDragon/keras-adamw](https://github.com/OverLordGoldDragon/keras-adamw)
