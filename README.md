@@ -147,6 +147,7 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [cheungdaven/DeepRec](https://github.com/cheungdaven/DeepRec)
 * [Hourout/CTR-keras](https://github.com/Hourout/CTR-keras)
 * [hojinYang/recsys-implementation.tensorflow2](https://github.com/hojinYang/recsys-implementation.tensorflow2)
+* [SSSxCCC/Recommender-System](https://github.com/SSSxCCC/Recommender-System)
 ### 用于分布式培训，评估，模型选择和快速原型制作
 * [zurutech/ashpy](https://github.com/zurutech/ashpy)
 ### AutoML
