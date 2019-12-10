@@ -186,3 +186,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [titu1994/tf-TabNet](https://github.com/titu1994/tf-TabNet)
 ### 优化器
 * [OverLordGoldDragon/keras-adamw](https://github.com/OverLordGoldDragon/keras-adamw)
+### 用于单通道语音分离的双路径RNN
+* [sp-uhh/dual-path-rnn](https://github.com/sp-uhh/dual-path-rnn)
