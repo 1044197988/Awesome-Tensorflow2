@@ -109,6 +109,9 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [kpe/bert-for-tf2](https://github.com/kpe/bert-for-tf2)
 * [akanyaani/gpt-2-tensorflow2.0](https://github.com/akanyaani/gpt-2-tensorflow2.0)
 
+### Point Model 点云模型
+* [dgriffiths3/pointnet2-tensorflow2](https://github.com/dgriffiths3/pointnet2-tensorflow2)
+
 ## Projects 💛💛💛💛💛<a name="Projects" />
 ### 视觉较大项目
 * [giovgiac/neptune](https://github.com/giovgiac/neptune)
