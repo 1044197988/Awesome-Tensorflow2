@@ -63,6 +63,7 @@
 * [hollygrimm/tf2-cyclegan](https://github.com/hollygrimm/tf2-cyclegan)
 * [drewszurko/tensorflow-WGAN-GP](https://github.com/drewszurko/tensorflow-WGAN-GP)
 * [mgmk2/StyleGAN](https://github.com/mgmk2/StyleGAN)
+* [LynnHo/CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
 
 ### Segmentation 分割
 #### Large library 大型库
