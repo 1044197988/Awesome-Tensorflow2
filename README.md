@@ -189,3 +189,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [OverLordGoldDragon/keras-adamw](https://github.com/OverLordGoldDragon/keras-adamw)
 ### 用于单通道语音分离的双路径RNN
 * [sp-uhh/dual-path-rnn](https://github.com/sp-uhh/dual-path-rnn)
+### 新型数据处理技术
+* [AakashKumarNain/AugMix_TF2](https://github.com/AakashKumarNain/AugMix_TF2)
