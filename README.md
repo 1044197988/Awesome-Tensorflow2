@@ -191,3 +191,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [sp-uhh/dual-path-rnn](https://github.com/sp-uhh/dual-path-rnn)
 ### 新型数据处理技术
 * [AakashKumarNain/AugMix_TF2](https://github.com/AakashKumarNain/AugMix_TF2)
+### 使用tensorflow 2构建的多任务学习包
+* [AmazaspShumik/mtlearn](https://github.com/AmazaspShumik/mtlearn)
