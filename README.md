@@ -193,3 +193,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [AakashKumarNain/AugMix_TF2](https://github.com/AakashKumarNain/AugMix_TF2)
 ### 使用tensorflow 2构建的多任务学习包
 * [AmazaspShumik/mtlearn](https://github.com/AmazaspShumik/mtlearn)
+### TensowFlow2.0上的CBAM（卷积块注意模块）实现
+* [zhangkaifang/CBAM-TensorFlow2.0](https://github.com/zhangkaifang/CBAM-TensorFlow2.0)
