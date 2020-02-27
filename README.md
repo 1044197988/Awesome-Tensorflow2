@@ -195,3 +195,5 @@ TensorFlow 2.0和PyTorch的最新自然语言处理，（以前称为pytorch-tra
 * [AmazaspShumik/mtlearn](https://github.com/AmazaspShumik/mtlearn)
 ### TensowFlow2.0上的CBAM（卷积块注意模块）实现
 * [zhangkaifang/CBAM-TensorFlow2.0](https://github.com/zhangkaifang/CBAM-TensorFlow2.0)
+### Spektral是一个基于Keras API和TensorFlow 2的用于图深度学习的Python库。该项目的主要目标是提供一个简单而灵活的框架来创建图神经网络（GNN）。
+* [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral)
